@@ -49,6 +49,11 @@
         color: var(--primary-color);
 
     }
+
+    textarea::-webkit-resizer {
+        display: none;
+    }
+
     .content__cript--area::placeholder{
         font-size: var(--font-code-size);
         font-weight: var(--font-weight-code);
@@ -166,6 +171,11 @@
         color: var(--primary-color);
 
     }
+
+    textarea::-webkit-resizer {
+        display: none;
+    }
+    
     .content__cript--area::placeholder{
         font-size: var(--font-code-size);
         font-weight: var(--font-weight-code);
