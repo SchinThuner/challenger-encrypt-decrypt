@@ -520,6 +520,7 @@
         flex-direction: row;
         justify-content: space-between;
         font-family: var(--font-default);
+        font-size: var(--font-decrip-size-desktop);
         padding-top: 0.875rem;
         gap: 1.5rem;
     }
