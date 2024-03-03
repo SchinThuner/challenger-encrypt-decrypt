@@ -575,7 +575,7 @@
     }
 
     .content__decrip--title{
-        font-size: 4 rem;
+        font-size: var(--font-decrip-size-desktop);     
         font-weight: 800;
         color: var(--secundary-color);
     }
