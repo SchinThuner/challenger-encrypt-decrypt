@@ -5,7 +5,7 @@
     --font-code-size : 2rem;
     --font-decrip-size : 1rem;
     --font-info-size : .75rem;
-    --font-code-size-desktop : 4rem;
+    --font-code-size-desktop : 3rem;
     --font-decrip-size-desktop : 3rem;
     --font-info-size-desktop : 2rem;
     --font-weight-code : 400;
@@ -578,13 +578,13 @@
     }
 
     .content__decrip--title{
-        font-size: var(--font-decrip-size-desktop);     
+        font-size: 4rem;     
         font-weight: 800;
         color: var(--secundary-color);
     }
 
     .content__decrip--area{  
-        font-size: var(--font-decrip-size-desktop);
+        font-size: 3rem;
         font-weight: 200;
         color: var(--tertiary-color);
     }
